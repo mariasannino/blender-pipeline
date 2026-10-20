@@ -32,3 +32,13 @@ Següent pas
 - acabar el tutorial d'iniciacio
 
 ## 2026-10-15 · Dia 2
+Què he fet:
+- he seguuit seguint el tutorial de blender fundamentaals. 
+- he fet una suzane iluminada per tres punts. 
+Què he après:
+- UV Unwrapping
+- Procedural Textures 
+- Light Types 
+- Three-point lighting 
+Obstacles i com els he resolt: 
+- Quan volia fer els renders la camara sempre enfocava a un altre lloc i no hi havia manera de colocarla be he apres a que enfoqui a l'objecte estimat. 
